@@ -9,6 +9,7 @@ Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at
 | Version | Tag | Upstream commit |
 |---------|-----|-----------------|
 | v4.6.2 | [`v4.6.2`](https://github.com/chainguard-actions/unity-builder/tree/v4.6.2) | — |
+| v4.6.3 | [`v4.6.3`](https://github.com/chainguard-actions/unity-builder/tree/v4.6.3) | — |
 
 ## Privacy
 
